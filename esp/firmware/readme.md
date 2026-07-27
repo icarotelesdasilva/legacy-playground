@@ -1,0 +1,1 @@
+fix: Este e um projeto simples e educacional, de um firmware esp32 idf.
