@@ -1,0 +1,7 @@
+go eax, 10
+go ebx, 255
+go ecx, 7
+
+; Test Comment
+
+go edx, 1000
